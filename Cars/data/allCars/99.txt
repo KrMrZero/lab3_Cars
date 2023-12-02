@@ -1,0 +1,96 @@
+Mazda
+121
+1500
+323
+323C
+323F
+616
+626
+818
+929
+AZ-Offroad
+AZ-Wagon
+Atenza
+Autozam AZ-1
+Autozam AZ-3
+Autozam Clef
+Axela
+B-Series
+BT-50
+Biante
+Bongo
+Bongo Brawny
+Bongo Friendee
+CX-3
+CX-30
+CX-4
+CX-5
+CX-50
+CX-60
+CX-7
+CX-8
+CX-9
+CX-90
+Capella
+Carol
+Chantez
+Cosmo
+Cronos
+Demio
+Efini MPV
+Efini MS-6
+Efini MS-8
+Efini MS-9
+Efini RX-7
+Etude
+Eunos 100
+Eunos 300
+Eunos 500
+Eunos 800
+Eunos Cargo
+Eunos Cosmo
+Eunos Presso
+Eunos Roadster
+Familia
+Familia S-Wagon
+Flair
+Flair Crossover
+Flair Wagon
+Lantis
+Laputa
+Luce
+MPV
+MX-3
+MX-30
+MX-5
+MX-6
+Mazda2
+Mazda3
+Mazda3 MPS
+Mazda5
+Mazda6
+Mazda6 MPS
+Mazda8
+Miata
+Millenia
+Navajo
+Persona
+Premacy
+Proceed
+Proceed Levante
+Proceed Marvie
+Protege
+RX-5
+RX-7
+RX-8
+Revue
+Roadpacer
+Roadster
+Savanna RX-7
+Scrum
+Sentia
+Spiano
+Tribute
+Verisa
+Xedos 6
+Xedos 9

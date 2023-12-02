@@ -1,0 +1,11 @@
+SWM
+G01
+G01F
+G01FF
+G05
+G05 Pro
+Iron Man
+Tiger
+X2
+X3
+X7
